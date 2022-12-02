@@ -1,0 +1,4 @@
+			Link,File Name,File Type,Undetected,Detected_Suspicious,Detected_Malicious,Threat Label,Tag1,Tag2,Tag3,Tag4
+https://www.virustotal.com/gui/file/a54187395baf5438c8dce173cfafd16fb12fbf8a3ff9ef0646091cd92ac0a7c5,Not Found in Virus Total Database
+https://www.virustotal.com/gui/file/dd3f8246d9f6dd42424228de4e2de92a3f898ea8ada782e9bc2cc56431a0aaf0,INVOICES.zip,ZIP,16,0,48,trojan.msil/agenttesla,['contains-pe', 'spreader', 'zip'],
+https://www.virustotal.com/gui/file/61abac61ce531e5454d5df48d27a9daa71c46368275549b31b440dd2d6932902,Contract 27J055.zip,ZIP,22,0,44,trojan.msil/agenttesla,['contains-pe', 'spreader', 'attachment', 'zip'],
