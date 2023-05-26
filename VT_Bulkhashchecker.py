@@ -13,7 +13,7 @@ for hashn in hashes:
         VTlink= "https://www.virustotal.com/gui/file/"
         headers = {
              "accept": "application/json",
-             "x-apikey": "8011dab2fe52005cd3badc6f20205e7cac37062321a993edcf4423b8d92b058f"
+             "x-apikey": "<YOUR API KEY>"
              }
         response= requests.get(url+hashn, headers=headers, timeout= 120)
        
