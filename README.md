@@ -6,3 +6,11 @@ Hashes can be fed via another csv or txt file. Due to 4 lookups/min limitation, 
 ## Virus Total API
 For more information about Virus Total API please visit https://developers.virustotal.com/reference/overview. For this script you will need a Virus Total standard free public API key.
 This key can be obtained in Virus Total by creating an account. Under the account you will see API key where you can find your API key and other information about Virus Total API including daily and historical usage. 
+
+## Dependencies
+Python Modules: pip3 install requests , pip3 install tqdm, pip3 install sqlite3
+
+API-KEY from www.virustotal.com
+
+
+Published under GNU General Public License v3.0
